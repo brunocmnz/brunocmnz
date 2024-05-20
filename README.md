@@ -1,5 +1,5 @@
 
-## Oi, sou Bruno Menezes
+## Olá, sou Bruno Menezes
 Desde que descobri meu lugar na computação, busco aprimorar meus conhecimentos, utilizando dos conceitos estudados na faculdade e de cursos extra-curriculares para complementar meu aprendizado e continuar por dentro das tecnologias do mercado.
 Atualmente, busco uma oportunidade de Estágio, Trainee ou Emprego, para que eu possa ingressar no mercado de trabalho, exercendo meu papel como desenvolvedor, adquirindo ainda mais experiência, para que eu possa contribuir cada dia mais com os projetos em que eu esteja atuado.
 
