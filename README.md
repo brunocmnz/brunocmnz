@@ -1,7 +1,6 @@
 
 ## Oi, sou Bruno Menezes
-**Apaixonado por tecnologia** , sempre fui curioso quanto à computação, eletrônica e coisas do tipo. 
-Aos 20 anos, me encontrei de vez na área, ao iniciar o curso de Engenharia da Computação. Desde então, busco aprimorar meus conhecimentos, utilizando dos conceitos estudados na faculdade e de cursos extra-curriculares para complementar meu aprendizado e continuar por dentro das tecnologias do mercado.
+Desde que descobri meu lugar na computação, busco aprimorar meus conhecimentos, utilizando dos conceitos estudados na faculdade e de cursos extra-curriculares para complementar meu aprendizado e continuar por dentro das tecnologias do mercado.
 Atualmente, busco uma oportunidade de Estágio, Trainee ou Emprego, para que eu possa ingressar no mercado de trabalho, exercendo meu papel como desenvolvedor, adquirindo ainda mais experiência, para que eu possa contribuir cada dia mais com os projetos em que eu esteja atuado.
 
 ### *Você também pode me encontrar clicando no botão abaixo:*
