@@ -24,13 +24,10 @@ Atualmente, busco uma oportunidade de Estágio, Trainee ou Emprego, para que eu 
       <img background-color="white"  widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />          
       <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
       <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-      <img widht="50" height="50" src="" />
     </div>
 
-
-
-
 <!--
+<img widht="50" height="50" src="" />
 **brunocmnz/brunocmnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
