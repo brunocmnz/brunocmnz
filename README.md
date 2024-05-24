@@ -22,6 +22,8 @@ Atualmente, busco uma oportunidade de Estágio, Trainee ou Emprego, para que eu 
       <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
     </div>
 
+Meu Portfólio: https://github.com/brunocmnz/portfolio
+
 - 👨‍💻 Estudante de **Engenharia da Computação** no [CEFET - MG](https://www.timoteo.cefetmg.br/), onde aprendi conceitos como:
   -  Arquitetura e Organização de Computadores
   -  Algoritmo e Estrutura de Dados
