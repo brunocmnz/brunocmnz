@@ -25,7 +25,6 @@ Meu Portfólio: https://github.com/brunocmnz/portfolio
   -  Algoritmo e Estrutura de Dados
   - Redes de computadores e comunicação de dados
   - Sistemas digitais (eletrônica)
-- 🚗 Apaixonado por carros
 <!--
 <img widht="50" height="50" src="" />
 **brunocmnz/brunocmnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
